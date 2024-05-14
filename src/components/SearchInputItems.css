@@ -1,0 +1,23 @@
+.frameitems{
+    background-color: white;
+    margin-top: 5px;
+    border-radius: 8px;
+    background-color: white;
+    max-width: 350px;
+    max-height: 300px;
+    min-height: 0px;
+    box-shadow: 0px 0px 8px #ddd;
+    overflow-y: scroll;
+    flex-direction: column;
+}
+
+.items{
+
+    border-radius: 0px;
+    margin-top: 0px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+ 
+}

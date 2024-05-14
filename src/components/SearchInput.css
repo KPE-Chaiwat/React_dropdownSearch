@@ -1,0 +1,12 @@
+.boxTextfield{
+    margin-top: 0px;
+    display: grid;
+ 
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    max-width: 350px;
+    box-shadow: 0px 0px 8px #ddd;
+    border-radius: 10px;
+
+}
